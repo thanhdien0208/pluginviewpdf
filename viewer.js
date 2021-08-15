@@ -57,7 +57,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "./hd_mau.pdf",
+    value: "hd_mau.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
